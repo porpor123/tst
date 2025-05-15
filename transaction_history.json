@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-05-15T14:35:29.850Z",
+    "mintAddress": "6Y6v8pqeguR1Q8Mv1oWHtUH7fa76duT15G43kYL3xu5G",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T14:35:34.546Z",
+    "mintAddress": "EUDXFg4YNeWsup91Dhi5k4hLGGwpx2s4zApgGHPiGM9K",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T14:51:18.621Z",
+    "mintAddress": "J37wLbP21v49R6Xonn8Ahwk1Qj4shjULPftaTZFUA25K",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T14:51:24.110Z",
+    "mintAddress": "FcdMqSbj836dk8TXkBENt64Ueu7RYRm9GRoNG8W6t4fM",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T14:53:35.544Z",
+    "mintAddress": "BQAfFF2aEec2PCDcy2XJtVKNf8xk8xwbGfoNa2jPhwKc",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T14:55:00.663Z",
+    "mintAddress": "8G2rbdoHLjEZd7HTPBLaooyxVJUZunALfj25RLUtqtdr",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T14:58:31.860Z",
+    "mintAddress": "CtuD71karNkYWcvq1NNx1aHw5xR2LcNoaNBhtdVMMYVK",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T15:00:40.223Z",
+    "mintAddress": "418HDt1YDAKDyJ2PDQpkxjDsNuFmULRnkh9nTz75pD7A",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T15:00:46.377Z",
+    "mintAddress": "vDBuV7Wj8xSpjph9vcqfYiidmuGmAErXHywUMYqUgWb",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T15:05:16.776Z",
+    "mintAddress": "BicDRW2SavLhDVtLCk4EHDAB9oJw26o9oGmkNHe9Umjw",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  },
+  {
+    "timestamp": "2025-05-15T15:06:20.488Z",
+    "mintAddress": "Ub2R1gGpZ7jtKxQChuSZug2SdjnYzWxNhM6eT256Hya",
+    "action": "BUY",
+    "investmentSOL": 0.008,
+    "profitPercentage": 0
+  }
+]
